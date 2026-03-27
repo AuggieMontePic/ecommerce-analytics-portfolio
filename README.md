@@ -85,5 +85,3 @@ Key findings:
 - **Google Cloud Platform** — Cloud infrastructure
 
 ---
-
-*Built as part of a freelance data analytics portfolio targeting e-commerce clients on Upwork.*
