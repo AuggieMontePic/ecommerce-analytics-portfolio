@@ -11,7 +11,14 @@
 This portfolio demonstrates end-to-end data analytics capabilities applied to real-world e-commerce data. Two projects built on the Olist Brazilian E-Commerce dataset showcase SQL query writing, data modeling, and dashboard development across two industry-standard BI tools.
 
 Each project follows a complete analytics workflow:
-**Raw Data → BigQuery SQL → Dashboard Visualization → Business Insights**
+**Raw Data → BigQuery SQL → ETL Pipeline → Dashboard Visualization → Business Insights**
+
+## Pipeline & Data Model
+
+Documented end-to-end analytics pipeline:
+
+- [`pipeline_overview.md`](./pipeline_overview.md) — Full ETL architecture: Extract → Transform → Load → Visualise. Covers all transformation decisions, data quality checks, and SQL techniques across both projects.
+- [`data_model.md`](./data_model.md) — Schema diagram (all 8 tables), field descriptions, grain definitions, and a documented data quality bug catch and resolution.
 
 ---
 
