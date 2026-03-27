@@ -159,10 +159,12 @@ Two BI dashboards consume the transformed BigQuery output directly via live conn
 
 ```
 /
-├── pipeline_overview.md          ← You are here
+├── README.md                     ← Portfolio overview and key findings
 ├── data_model.md                 ← Schema diagram, table docs, transformation decisions
+├── pipeline_overview.md          ← ETL architecture and pipeline narrative
 ├── project-1-looker-studio/
 │   ├── README.md                 ← Dashboard overview and findings
+│   ├── dashboard_preview.pdf     ← Looker Studio dashboard preview
 │   └── queries/
 │       ├── 01_monthly_sales_performance.sql
 │       ├── 02_top_products_by_revenue.sql
@@ -171,6 +173,7 @@ Two BI dashboards consume the transformed BigQuery output directly via live conn
 │       └── 05_cohort_retention_analysis.sql
 └── project-2-powerbi/
     ├── README.md                 ← Dashboard overview and findings
+    ├── dashboard_preview.pdf     ← Power BI dashboard preview
     └── queries/
         ├── 06_tech_category_performance.sql
         ├── 07_tech_top_products.sql
