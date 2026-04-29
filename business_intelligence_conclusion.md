@@ -116,8 +116,6 @@ All findings in this report are grounded in 96,500+ delivered orders across a 22
 
 One limitation should be noted: the near-zero repeat purchase rate, while analytically confirmed, may partially reflect characteristics of the Olist marketplace model during 2016–2018 rather than exclusively representing a failure of retention strategy. Cross-referencing these findings with post-2018 platform data, where available, would strengthen the confidence of the retention recommendation before committing to a full programme.
 
-The data is honest. The recommendations are directional. Execution is yours.
-
 ---
 
 *Analysis based on the Olist Brazilian E-Commerce Public Dataset (Kaggle) · October 2016 – August 2018*  
