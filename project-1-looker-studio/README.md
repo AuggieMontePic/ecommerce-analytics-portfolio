@@ -14,6 +14,8 @@
 
 This project analyses 96,500+ delivered orders from the Olist Brazilian e-commerce marketplace. The analysis covers sales performance trends, customer value segmentation, and geographic distribution across Brazil's 27 states and 4,000+ cities.
 
+Link to live dashboard: https://datastudio.google.com/reporting/551c31fd-aa38-4816-b594-962b2710014e
+
 ---
 
 ## Dashboard Pages
