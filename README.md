@@ -1,7 +1,7 @@
 # E-Commerce Analytics Portfolio
 
 **Author:** AuggieMontePic  
-**Tools:** BigQuery SQL | Looker Studio | Power BI | Google Cloud  
+**Tools:** BigQuery SQL | Data Studio | Power BI | Google Cloud  
 **Dataset:** [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 
 ---
@@ -25,7 +25,7 @@ Documented end-to-end analytics pipeline:
 ## Projects
 
 ### Project 1 — Brazilian E-Commerce Sales & Customer Analytics
-**Tool:** Looker Studio  
+**Tool:** Data Studio  
 **Focus:** Sales performance, customer segmentation, and geographic distribution  
 **Queries:** 5 BigQuery SQL queries  
 **Dashboard:** 3-page interactive Looker Studio report
@@ -87,7 +87,7 @@ Key findings:
 ## Tools & Technologies
 
 - **Google BigQuery** — Data warehouse and SQL query execution
-- **Looker Studio** — Interactive dashboard development (Project 1)
+- **Data Studio** — Interactive dashboard development (Project 1)
 - **Power BI Desktop** — Advanced dashboard development (Project 2)
 - **Google Cloud Platform** — Cloud infrastructure
 
