@@ -2,7 +2,7 @@
 ## Olist Brazilian E-Commerce — Cross-Project Executive Summary
 
 **Author:** AuggieMontePic  
-**Projects Covered:** Project 1 (Looker Studio — Sales & Customer Analytics) · Project 2 (Power BI — Tech E-Commerce Operations)  
+**Projects Covered:** Project 1 (Data Studio — Sales & Customer Analytics) · Project 2 (Power BI — Tech E-Commerce Operations)  
 **Dataset Period:** October 2016 – August 2018  
 **Audience:** Directive Board / Executive Stakeholders  
 
@@ -119,5 +119,5 @@ One limitation should be noted: the near-zero repeat purchase rate, while analyt
 ---
 
 *Analysis based on the Olist Brazilian E-Commerce Public Dataset (Kaggle) · October 2016 – August 2018*  
-*Projects: [Project 1 — Looker Studio](./project-1-looker-studio) · [Project 2 — Power BI](./project-2-powerbi)*  
+*Projects: [Project 1 — Data Studio](./project-1-looker-studio) · [Project 2 — Power BI](./project-2-powerbi)*  
 *Pipeline documentation: [pipeline_overview.md](./pipeline_overview.md) · [data_model.md](./data_model.md)*
