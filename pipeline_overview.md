@@ -42,7 +42,7 @@ A production-style data pipeline built on the [Olist Brazilian E-Commerce datase
 ┌─────────────────────────────────────────────────────────────┐
 │                       VISUALISE                             │
 │                                                             │
-│   Project 1 → Looker Studio (sales & customer analytics)    │
+│   Project 1 → Data Studio (sales & customer analytics)    │
 │   Project 2 → Power BI (tech e-commerce operations)        │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -131,7 +131,7 @@ Each table is documented in [`data_model.md`](./data_model.md) with field descri
 
 Two BI dashboards consume the transformed BigQuery output directly via live connector.
 
-### Project 1 — Looker Studio
+### Project 1 — Data Studio
 **Focus:** Sales performance, customer segmentation, geographic distribution
 **Pages:** Executive summary · Customer value analysis · Geographic sales analysis
 **Key findings:**
@@ -164,7 +164,7 @@ Two BI dashboards consume the transformed BigQuery output directly via live conn
 ├── pipeline_overview.md          ← ETL architecture and pipeline narrative
 ├── project-1-looker-studio/
 │   ├── README.md                 ← Dashboard overview and findings
-│   ├── dashboard_preview.pdf     ← Looker Studio dashboard preview
+│   ├── dashboard_preview.pdf     ← Data Studio dashboard preview
 │   └── queries/
 │       ├── 01_monthly_sales_performance.sql
 │       ├── 02_top_products_by_revenue.sql
@@ -184,4 +184,4 @@ Two BI dashboards consume the transformed BigQuery output directly via live conn
 ---
 
 *Dataset: [Olist Brazilian E-Commerce on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)*
-*Tools: Google BigQuery · Looker Studio · Microsoft Power BI*
+*Tools: Google BigQuery · Data Studio · Microsoft Power BI*
